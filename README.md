@@ -26,10 +26,11 @@
 <p align="center">
   <a href="https://yomo40.github.io">查询精神状态</a>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yomo40&theme=radical&show_rank=true&count_private=false&include_all_commits=true&rank_icon=github">
 </p>
+!-->
 
 <div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:yomo40?theme=gelbooru-h" /> </div>
 
