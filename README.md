@@ -19,7 +19,7 @@
 
 ## 碎碎念
 
-- 呼号申请中 
+- Callsign BI2RGQ 
 - she/her, cis male
 - 最喜欢debian了
 <h4 align="center">随缘更新</h4>
